@@ -29,3 +29,4 @@ meteor npm run lint
 
 # todos
 # todos
+# test
