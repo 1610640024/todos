@@ -42,7 +42,7 @@ zimme:active-route
 tap:i18n
 
 # accounts
-accounts-password@1.5.1
+accounts-password
 useraccounts:core
 useraccounts:unstyled
 useraccounts:flow-routing
@@ -76,3 +76,7 @@ dburles:factory
 # security
 audit-argument-checks@1.0.7
 dynamic-import@0.4.0
+accounts-facebook
+service-configuration
+accounts-ui
+facebook-config-ui

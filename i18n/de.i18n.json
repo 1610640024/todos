@@ -1,0 +1,76 @@
+{
+  "lists": {
+    "makePrivate": {
+      "notLoggedIn": "Sie müssen eingeloggt sein um private Listen zu erstellen.",
+      "lastPublicList": "Die letzte öffentliche Liste kann nicht auf Privat gesetzt werden."
+    },
+    "makePublic": {
+      "notLoggedIn": "Sie müssen eingeloggt sein um diese Aktion durchzuführen.",
+      "accessDenied": "Sie haben nicht die Berechtigung diese Liste zu bearbeiten."
+    },
+    "updateName": {
+      "accessDenied": "Sie haben nicht die Berechtigung diese Liste zu bearbeiten."
+    },
+    "remove": {
+      "accessDenied": "'Sie haben nicht die Berechtigung diese Liste zu löschen.'",
+      "lastPublicList": "Die letzte öffentliche Liste kann nicht gelöscht werden.",
+      "confirm": "Sind Sie sicher dass diese Liste gelöscht werden soll?"
+    },
+    "show": {
+      "cancel": "Abbrechen",
+      "showMenu": "Menü",
+      "selectAction": "Aktion wählen",
+      "makePublic": "Veröffentlichen",
+      "makePrivate": "Privat setzen",
+      "delete": "Löschen",
+      "makeListPublic": "Liste veröffentlichen",
+      "makeListPrivate": "Liste auf privat setzen",
+      "deleteList": "Liste löschen",
+      "typeToAdd": "Tippen um neue Aufgaben hinzuzufügen",
+      "noTasks": "Keine Aufgabe vorhanden",
+      "addAbove": "Fügen Sie Aufgaben mithilfe des obigen Feldes hinzu",
+      "loading": "Lade Aufgaben..."
+    },
+    "insert": {
+      "list": "List"
+    }
+  },
+  "todos": {
+    "insert": {
+      "accessDenied": "Cannot add todos to a private list that is not yours"
+    },
+    "setCheckedStatus": {
+      "accessDenied": "Cannot edit todos in a private list that is not yours"
+    },
+    "updateText": {
+      "accessDenied": "Cannot edit todos in a private list that is not yours"
+    },
+    "remove": {
+      "accessDenied": "Cannot remove todos in a private list that is not yours"
+    },
+    "item": {
+      "taskName": "Task name"
+    }
+  },
+  "useraccounts": {
+    "atTitle": {
+      "subtitle": "Signing in allows you to have private lists"
+    }
+  },
+  "layouts": {
+    "appBody": {
+      "logout": "Ausloggen",
+      "login": "Anmelden",
+      "join": "Registrieren",
+      "newList": "Neue Liste",
+      "newListError": "Liste konnte nicht erstellt werden.",
+      "tryingToConnect": "Verbindung wird hergestellt",
+      "connectionIssue": "Scheinbar gibt es ein Problem mit der Verbindung"
+    }
+  },
+  "pages": {
+    "appNotFound": {
+      "pageNotFound": "Seite nicht gefunden"
+    }
+  }
+}
