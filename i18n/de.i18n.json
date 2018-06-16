@@ -32,29 +32,29 @@
       "loading": "Lade Aufgaben..."
     },
     "insert": {
-      "list": "List"
+      "list": "Liste"
     }
   },
   "todos": {
     "insert": {
-      "accessDenied": "Cannot add todos to a private list that is not yours"
+      "accessDenied": "Zu fremden privaten Listen können keine Aufgaben hinzugefügt werden"
     },
     "setCheckedStatus": {
-      "accessDenied": "Cannot edit todos in a private list that is not yours"
+      "accessDenied": "Aufgaben in fremden privaten Listen können nicht bearbeitet werden"
     },
     "updateText": {
-      "accessDenied": "Cannot edit todos in a private list that is not yours"
+      "accessDenied": "Aufgaben in fremden privaten Listen können nicht bearbeitet werden"
     },
     "remove": {
-      "accessDenied": "Cannot remove todos in a private list that is not yours"
+      "accessDenied": "Aufgaben in fremden privaten Listen können nicht gelöscht werden"
     },
     "item": {
-      "taskName": "Task name"
+      "taskName": "Task Name"
     }
   },
   "useraccounts": {
     "atTitle": {
-      "subtitle": "Signing in allows you to have private lists"
+      "subtitle": "Wenn Sie eingeloggt sind können Sie private Listen erstellen"
     }
   },
   "layouts": {
